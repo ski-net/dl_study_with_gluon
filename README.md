@@ -1,40 +1,46 @@
-### Deep Learning Study with Gluon
+## Deep Learning Study with Gluon
 
 Deep learning to learn while making
 
 
-### Schedule 
+## Schedule 
 
-#### Gluon Basic
+### Gluon Basic
 
 - Gluon Introduction, 12/22
 - intro mxnet NDArray, Symbol, Model  
 - intro Grad
 
-#### Fully Connected  
+### Fully Connected  
 
 - Classification model with MNIST
 
-#### Convolution 
+### Convolution 
 
 
-#### Recurrent 
+### Recurrent 
 
 
-#### Image 
+### Image 
 
 - Transfer Leraning with cats and dogs classification, 
 
 
-#### NLP
+### NLP
 
 - Sentiment Classification 
 - Addition seq2seq model 
 
+### high-performance learning
 
 
+### Recommandation 
 
-### Reference 
+
+### generative adversarial networks
+
+
+## Reference 
 
 - https://github.com/zackchase/mxnet-the-straight-dope 
 - https://github.com/SherlockLiao/mxnet-gluon-tutorial
