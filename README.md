@@ -38,7 +38,6 @@ Deep learning to learn while making
 
 ### XAI
 - Bayesian Case Model
-- GradCam
 
 ### Generative Models
 - Variational Inference Model
