@@ -39,6 +39,7 @@ Deep learning to learn while making
 
 ### generative adversarial networks
 
+### XAI
 
 ## Reference 
 
