@@ -36,6 +36,12 @@ Deep learning to learn while making
 
 ### Recommandation 
 
+### XAI
+- Bayesian Case Model
+- GradCam
+
+### Generative Models
+- Variational Inference Model
 
 ### generative adversarial networks
 
