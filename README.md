@@ -17,6 +17,8 @@ Deep learning to learn while making
 
 ### Convolution 
 
+- AlexNet
+  - https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
 - ResNet
   - https://arxiv.org/pdf/1512.03385.pdf
 - Inception V4
