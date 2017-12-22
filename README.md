@@ -21,6 +21,10 @@ Deep learning to learn while making
   - https://arxiv.org/pdf/1512.03385.pdf
 - Inception V4
   - https://arxiv.org/pdf/1602.07261.pdf
+- DenseNet
+  - https://arxiv.org/pdf/1608.06993.pdf
+- CapsNet
+  - https://arxiv.org/pdf/1710.09829.pdf
 
 
 
