@@ -44,6 +44,7 @@ Deep learning to learn while making
 
 ### GAN(Generative Adversarial Networks)
 - DCGAN
+  - https://arxiv.org/pdf/1511.06434.pdf
 - DiscogAN
 - WGAN
 - BeGAN
