@@ -42,7 +42,11 @@ Deep learning to learn while making
 ### Generative Models
 - Variational Inference Model
 
-### generative adversarial networks
+### GAN(Generative Adversarial Networks)
+- DCGAN
+- DiscogAN
+- WGAN
+- BeGAN
 
 
 ## Reference 
