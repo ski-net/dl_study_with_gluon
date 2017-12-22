@@ -13,7 +13,7 @@ Deep learning to learn while making
 
 ### Fully Connected  
 
-- Classification model with MNIST
+- [Classification model with MNIST] (https://github.com/ski-net/dl_study_with_gluon/blob/master/Fully_Connected/Classification%20model%20with%20MNIST.ipynb)
 
 ### Convolution 
 
