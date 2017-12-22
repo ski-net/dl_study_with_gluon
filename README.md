@@ -67,6 +67,7 @@ Deep learning to learn while making
 
 ## Reference 
 
+- https://github.com/zackchase/gluon-slides/blob/master/sept18-gluon.pdf
 - https://github.com/zackchase/mxnet-the-straight-dope 
 - https://github.com/SherlockLiao/mxnet-gluon-tutorial
 - https://github.com/gluon-api/gluon-api
