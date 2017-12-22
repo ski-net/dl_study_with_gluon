@@ -13,8 +13,7 @@ Deep learning to learn while making
 
 ### Fully Connected  
 
-- [incubator-mxnet-site](https://github.com/apache/incubator-mxnet-site)
-- [Classification model with MNIST] (https://)
+- [Classification model with MNIST](https://github.com/ski-net/dl_study_with_gluon/tree/master/Fully_Connected)
 
 ### Convolution 
 
