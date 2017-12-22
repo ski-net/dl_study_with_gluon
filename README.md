@@ -17,6 +17,12 @@ Deep learning to learn while making
 
 ### Convolution 
 
+- ResNet
+  - https://arxiv.org/pdf/1512.03385.pdf
+- Inception V4
+  - https://arxiv.org/pdf/1602.07261.pdf
+
+
 
 ### Recurrent 
 
@@ -45,9 +51,12 @@ Deep learning to learn while making
 ### GAN(Generative Adversarial Networks)
 - DCGAN
   - https://arxiv.org/pdf/1511.06434.pdf
-- DiscogAN
+- DiscoGAN
+  - https://arxiv.org/pdf/1703.05192.pdf
 - WGAN
+  - https://arxiv.org/pdf/1701.07875.pdf
 - BeGAN
+  - https://arxiv.org/pdf/1703.10717.pdf
 
 
 ## Reference 
@@ -55,3 +64,4 @@ Deep learning to learn while making
 - https://github.com/zackchase/mxnet-the-straight-dope 
 - https://github.com/SherlockLiao/mxnet-gluon-tutorial
 - https://github.com/gluon-api/gluon-api
+- http://blog.creation.net/mxnet-part-1-ndarrays-api#.WjyR21SFiu7
