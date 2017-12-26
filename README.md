@@ -43,8 +43,6 @@ Deep learning to learn while making
 ### Recurrent
 
 
-
-
 ### Image
 
 
@@ -61,14 +59,11 @@ Deep learning to learn while making
 ### Recommandation
 
 ### XAI
-- The Bayesian Case Model: A Generative Approach for Case-Based Reasoning and Prototype Classification
+- The Bayesian Case Model: A Generative Approach for Case-Based Reasoning and Prototype Classification (@kionkim)
   - https://arxiv.org/pdf/1503.01161.pdf
-  
-- Distilling a Neural Network Into a Soft Decision Tree
+- Distilling a Neural Network Into a Soft Decision Tree (@kionkim)
   - https://arxiv.org/pdf/1711.09784.pdf
-  
-### Generative Models
-- Variational Inference Model
+
 
 ### GAN(Generative Adversarial Networks)
 - DCGAN
@@ -80,6 +75,9 @@ Deep learning to learn while making
 - BeGAN
   - https://arxiv.org/pdf/1703.10717.pdf
 
+### VAE(Variational Auto Encoder)
+- Tutorial on Variational Autoencoders (@kionkim)
+  - https://arxiv.org/pdf/1606.05908.pdf
 
 ### Embedding
 - Word2Vec (@hjkim, imdb)
