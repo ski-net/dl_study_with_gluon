@@ -3,7 +3,7 @@
 Deep learning to learn while making
 
 
-## Schedule 
+## Schedule
 
 ### Gluon Basic
 
@@ -15,7 +15,7 @@ Deep learning to learn while making
 
 - [Classification model with MNIST](https://github.com/ski-net/dl_study_with_gluon/tree/master/Fully_Connected)
 
-### Convolution 
+### Convolution
 
 - AlexNet
   - https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
@@ -30,12 +30,12 @@ Deep learning to learn while making
 
 
 
-### Recurrent 
+### Recurrent
 
 
-### Image 
+### Image
 
-- Transfer Leraning with cats and dogs classification, 
+- Transfer Leraning with cats and dogs classification,
 
 
 ### NLP
@@ -46,7 +46,7 @@ Deep learning to learn while making
 ### high-performance learning
 
 
-### Recommandation 
+### Recommandation
 
 ### XAI
 - Bayesian Case Model
@@ -64,11 +64,16 @@ Deep learning to learn while making
 - BeGAN
   - https://arxiv.org/pdf/1703.10717.pdf
 
+### Embedding
+- Word2Vec
+  - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.764.2227&rep=rep1&type=pdf
+- Doc2Vec
+  - https://arxiv.org/pdf/1405.4053v2.pdf
 
-## Reference 
+## Reference
 
 - https://github.com/zackchase/gluon-slides/blob/master/sept18-gluon.pdf
-- https://github.com/zackchase/mxnet-the-straight-dope 
+- https://github.com/zackchase/mxnet-the-straight-dope
 - https://github.com/SherlockLiao/mxnet-gluon-tutorial
 - https://github.com/gluon-api/gluon-api
 - http://blog.creation.net/mxnet-part-1-ndarrays-api#.WjyR21SFiu7
