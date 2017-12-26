@@ -64,11 +64,13 @@ Deep learning to learn while making
 - BeGAN
   - https://arxiv.org/pdf/1703.10717.pdf
 
+
 ### Embedding
 - Word2Vec
   - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.764.2227&rep=rep1&type=pdf
 - Doc2Vec
   - https://arxiv.org/pdf/1405.4053v2.pdf
+
 
 ## Reference
 
