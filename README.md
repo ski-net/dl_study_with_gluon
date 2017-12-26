@@ -8,7 +8,7 @@ Deep learning to learn while making
 | Topic      | Date/Time | Location |   Etc | 
 |------------|-----------|----------|-------|
 | Gluon Introduction |  12/22,17:00   | 분석실  |       |   
-| Convolution & Transfer Leraning |  12/28,18:00   | T-Lounge,G회의실  |   |     
+| Convolution & Transfer Leraning |  12/28,18:00   | T-Lounge, Room G  |   |     
 
 ## Topic
 
