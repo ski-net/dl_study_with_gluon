@@ -40,8 +40,8 @@ Deep learning to learn while making
 
 ### NLP
 
-- Sentiment Classification
-- Addition seq2seq model
+- Sentiment Classification (@supark 네이버 영화 평점)
+- Addition seq2seq model 
 
 ### high-performance learning
 
