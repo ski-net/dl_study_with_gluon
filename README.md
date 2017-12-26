@@ -61,8 +61,12 @@ Deep learning to learn while making
 ### Recommandation
 
 ### XAI
-- Bayesian Case Model
-
+- The Bayesian Case Model: A Generative Approach for Case-Based Reasoning and Prototype Classification
+  - https://arxiv.org/pdf/1503.01161.pdf
+  
+- Distilling a Neural Network Into a Soft Decision Tree
+  - https://arxiv.org/pdf/1711.09784.pdf
+  
 ### Generative Models
 - Variational Inference Model
 
@@ -84,7 +88,6 @@ Deep learning to learn while making
   - https://arxiv.org/pdf/1405.4053v2.pdf
 - Sentiment Analysis using Doc2vec (@hjkim, imdb)
   - http://linanqiu.github.io/2015/10/07/word2vec-sentiment/
-
 
 ## Reference
 
