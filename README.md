@@ -24,7 +24,7 @@ Deep learning to learn while making
 
 ### Convolution
 
-- Image classification with Convolution (@haven-jeon, cats and dogs )
+- [Image classification with Convolution](https://github.com/ski-net/dl_study_with_gluon/blob/master/Convolution/cats_and_dogs_conv.ipynb) (@haven-jeon, cats and dogs )
 - Transfer Leraning (@haven-jeon, cats and dogs classification)
 
 - AlexNet
