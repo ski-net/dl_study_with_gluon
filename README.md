@@ -77,10 +77,12 @@ Deep learning to learn while making
 
 
 ### Embedding
-- Word2Vec
+- Word2Vec (@hjkim, imdb)
   - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.764.2227&rep=rep1&type=pdf
-- Doc2Vec
+- Doc2Vec (@hjkim, imdb)
   - https://arxiv.org/pdf/1405.4053v2.pdf
+- Sentiment Analysis using Doc2vec (@hjkim, imdb)
+  - http://linanqiu.github.io/2015/10/07/word2vec-sentiment/
 
 
 ## Reference
