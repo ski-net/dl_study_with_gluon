@@ -35,14 +35,14 @@ Deep learning to learn while making
 
 ### Image 
 
-- Transfer Leraning with cats and dogs classification, 
+- Transfer Leraning (@haven-jeon, cats and dogs classification)
 
 
 ### NLP
 
 - Sentiment Classification (@supark, 네이버 영화 평점)
 - seq2seq (@haven-jeon, Addition model)
-- Attention Mechanism (@haven-jeon, Neural Machine Translator)
+- seq2seq with Attention Mechanism (@haven-jeon, Addition model)
 
 ### high-performance learning
 
