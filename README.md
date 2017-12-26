@@ -5,6 +5,13 @@ Deep learning to learn while making
 
 ## Schedule
 
+| Topic      | Date/Time | Location |   Etc | 
+|------------|-----------|----------|-------|
+| Gluon Introduction |  12/22,17:00   | 분석실  |       |   
+| Convolution & Transfer Leraning |  12/28,18:00   | T-Lounge, Room G  |   |     
+
+## Topic
+
 ### Gluon Basic
 
 - Gluon Introduction, 12/22
@@ -16,6 +23,9 @@ Deep learning to learn while making
 - [Classification model with MNIST](https://github.com/ski-net/dl_study_with_gluon/tree/master/Fully_Connected)
 
 ### Convolution
+
+- Image classification with Convolution (@haven-jeon, cats and dogs )
+- Transfer Leraning (@haven-jeon, cats and dogs classification)
 
 - AlexNet
   - https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
@@ -33,11 +43,9 @@ Deep learning to learn while making
 ### Recurrent
 
 
+
+
 ### Image
-
-
-- Transfer Leraning (@haven-jeon, cats and dogs classification)
-
 
 
 ### NLP
