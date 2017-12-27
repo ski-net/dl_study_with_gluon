@@ -8,7 +8,7 @@ Deep learning to learn while making
 | Topic      | Date/Time | Location |   Etc | 
 |------------|-----------|----------|-------|
 | Gluon Introduction |  12/22,17:00   | 분석실  |       |   
-| Convolution & Transfer Leraning |  12/28,18:00   | T-Lounge, Room G  |   |     
+| Convolution & Transfer Learning |  12/28,18:00   | T-Lounge, Room G  |   |     
 
 ## Topic
 
@@ -24,7 +24,7 @@ Deep learning to learn while making
 
 ### Convolution
 
-- Image classification with Convolution (@haven-jeon, cats and dogs )
+- [Image classification with Convolution](https://github.com/ski-net/dl_study_with_gluon/blob/master/Convolution/cats_and_dogs_conv.ipynb) (@haven-jeon, cats and dogs )
 - Transfer Leraning (@haven-jeon, cats and dogs classification)
 
 - AlexNet
@@ -43,8 +43,6 @@ Deep learning to learn while making
 ### Recurrent
 
 
-
-
 ### Image
 
 
@@ -56,14 +54,16 @@ Deep learning to learn while making
 
 ### high-performance learning
 
+### Autoencoder
 
 ### Recommandation
 
 ### XAI
-- Bayesian Case Model
+- The Bayesian Case Model: A Generative Approach for Case-Based Reasoning and Prototype Classification (@kionkim)
+  - https://arxiv.org/pdf/1503.01161.pdf
+- Distilling a Neural Network Into a Soft Decision Tree (@kionkim)
+  - https://arxiv.org/pdf/1711.09784.pdf
 
-### Generative Models
-- Variational Inference Model
 
 ### GAN(Generative Adversarial Networks)
 - DCGAN
@@ -75,13 +75,17 @@ Deep learning to learn while making
 - BeGAN
   - https://arxiv.org/pdf/1703.10717.pdf
 
+### VAE(Variational Auto Encoder)
+- Tutorial on Variational Autoencoders (@kionkim)
+  - https://arxiv.org/pdf/1606.05908.pdf
 
 ### Embedding
-- Word2Vec
+- Word2Vec (@hjkim, imdb)
   - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.764.2227&rep=rep1&type=pdf
-- Doc2Vec
+- Doc2Vec (@hjkim, imdb)
   - https://arxiv.org/pdf/1405.4053v2.pdf
-
+- Sentiment Analysis using Doc2vec (@hjkim, imdb)
+  - http://linanqiu.github.io/2015/10/07/word2vec-sentiment/
 
 ## Reference
 
@@ -90,3 +94,4 @@ Deep learning to learn while making
 - https://github.com/SherlockLiao/mxnet-gluon-tutorial
 - https://github.com/gluon-api/gluon-api
 - http://blog.creation.net/mxnet-part-1-ndarrays-api#.WjyR21SFiu7
+- https://github.com/SherlockLiao/mxnet-gluon-tutorial/tree/master/08-AutoEncoder
