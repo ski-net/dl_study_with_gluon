@@ -55,6 +55,7 @@ Deep learning to learn while making
 ### high-performance learning
 
 ### Autoencoder
+- simple & conv. Autoencoder compared to Keras (@ljy3795)
 
 ### Recommandation
 
