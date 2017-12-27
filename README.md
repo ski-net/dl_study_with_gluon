@@ -94,4 +94,3 @@ Deep learning to learn while making
 - https://github.com/SherlockLiao/mxnet-gluon-tutorial
 - https://github.com/gluon-api/gluon-api
 - http://blog.creation.net/mxnet-part-1-ndarrays-api#.WjyR21SFiu7
-- https://github.com/SherlockLiao/mxnet-gluon-tutorial/tree/master/08-AutoEncoder
