@@ -20,12 +20,14 @@ Deep learning to learn while making
 
 ### Fully Connected  
 
-- [Classification model with MNIST](https://github.com/ski-net/dl_study_with_gluon/tree/master/Fully_Connected) (@seujung)
+- [Classification model with MNIST](https://github.com/ski-net/dl_study_with_gluon/tree/master/Fully_Connected)
 
 ### Convolution
 
 - [Image classification with Convolution](https://github.com/ski-net/dl_study_with_gluon/blob/master/Convolution/cats_and_dogs_conv.ipynb) (@haven-jeon, cats and dogs )
 - Transfer Leraning (@haven-jeon, cats and dogs classification)
+
+- Image classification with MNIST, CIFAR10 (@soohwanjo)
 
 - AlexNet
   - https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
@@ -67,7 +69,7 @@ Deep learning to learn while making
 
 
 ### GAN(Generative Adversarial Networks)
-- DCGAN (@seujung)
+- DCGAN
   - https://arxiv.org/pdf/1511.06434.pdf
 - DiscoGAN
   - https://arxiv.org/pdf/1703.05192.pdf
@@ -87,9 +89,6 @@ Deep learning to learn while making
   - https://arxiv.org/pdf/1405.4053v2.pdf
 - Sentiment Analysis using Doc2vec (@hjkim, imdb)
   - http://linanqiu.github.io/2015/10/07/word2vec-sentiment/
-  
-### etc
-- PATHNET (@seujung)
 
 ## Reference
 
