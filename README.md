@@ -87,6 +87,9 @@ Deep learning to learn while making
   - https://arxiv.org/pdf/1405.4053v2.pdf
 - Sentiment Analysis using Doc2vec (@hjkim, imdb)
   - http://linanqiu.github.io/2015/10/07/word2vec-sentiment/
+  
+## etc
+- PATHNET (@seujung)
 
 ## Reference
 
