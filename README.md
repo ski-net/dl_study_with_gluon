@@ -20,12 +20,14 @@ Deep learning to learn while making
 
 ### Fully Connected  
 
-- [Classification model with MNIST](https://github.com/ski-net/dl_study_with_gluon/tree/master/Fully_Connected)
+- [Classification model with MNIST](https://github.com/ski-net/dl_study_with_gluon/tree/master/Fully_Connected) (@seujung)
 
 ### Convolution
 
 - [Image classification with Convolution](https://github.com/ski-net/dl_study_with_gluon/blob/master/Convolution/cats_and_dogs_conv.ipynb) (@haven-jeon, cats and dogs )
 - Transfer Leraning (@haven-jeon, cats and dogs classification)
+
+- Image classification with MNIST, CIFAR10 (@soohwanjo)
 
 - AlexNet
   - https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
@@ -41,7 +43,8 @@ Deep learning to learn while making
 
 
 ### Recurrent
-
+- Sound Data Classification with Whale Sound Data (@hongdm7)
+- Stock Price Prediction with Amazon Stock Data (@hyeminchoe)
 
 ### Image
 
@@ -55,6 +58,7 @@ Deep learning to learn while making
 ### high-performance learning
 
 ### Autoencoder
+- simple & conv. Autoencoder compared to Keras (@ljy3795)
 
 ### Recommandation
 
@@ -66,7 +70,7 @@ Deep learning to learn while making
 
 
 ### GAN(Generative Adversarial Networks)
-- DCGAN
+- [DCGAN](https://github.com/ski-net/dl_study_with_gluon/tree/master/GAN) (@seujung)
   - https://arxiv.org/pdf/1511.06434.pdf
 - DiscoGAN
   - https://arxiv.org/pdf/1703.05192.pdf
