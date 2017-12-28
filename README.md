@@ -43,7 +43,7 @@ Deep learning to learn while making
 
 
 ### Recurrent
-
+- Sound Data Classification with Whale Sound Data (@hongdm7)
 
 ### Image
 
