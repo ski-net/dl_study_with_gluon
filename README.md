@@ -20,12 +20,12 @@ Deep learning to learn while making
 
 ### Fully Connected  
 
-- [Classification model with MNIST](https://github.com/ski-net/dl_study_with_gluon/tree/master/Fully_Connected) (@seujung)
+- [Classification model with MNIST](Fully_Connected) (@seujung)
 
 ### Convolution
 
-- [Image classification with Convolution](https://github.com/ski-net/dl_study_with_gluon/blob/master/Convolution/cats_and_dogs_conv.ipynb) (@haven-jeon, cats and dogs )
-- [Transfer Leraning](https://github.com/ski-net/dl_study_with_gluon/blob/master/Convolution/cats_and_dogs_conv_transfer.ipynb) (@haven-jeon, cats and dogs classification)
+- [Image classification with Convolution](Convolution/cats_and_dogs_conv.ipynb) (@haven-jeon, cats and dogs )
+- [Transfer Leraning](Convolution/cats_and_dogs_conv_transfer.ipynb) (@haven-jeon, cats and dogs classification)
 
 - Image classification with MNIST, CIFAR10 (@soohwanjo)
 
@@ -48,12 +48,15 @@ Deep learning to learn while making
 
 ### Image
 
+### Neural Style Transfer
+- style transfer (@seujung)
 
 ### NLP
 
 - Sentiment Classification (@supark, 네이버 영화 평점)
 - seq2seq (@haven-jeon, Addition model)
 - seq2seq with Attention Mechanism (@haven-jeon, Addition model)
+- Text Generation(@EVA01)
 
 ### high-performance learning
 
