@@ -20,7 +20,7 @@ Deep learning to learn while making
 
 ### Fully Connected  
 
-- [Classification model with MNIST](https://github.com/ski-net/dl_study_with_gluon/tree/master/Fully_Connected)
+- [Classification model with MNIST](https://github.com/ski-net/dl_study_with_gluon/tree/master/Fully_Connected) (@seujung)
 
 ### Convolution
 
@@ -69,7 +69,7 @@ Deep learning to learn while making
 
 
 ### GAN(Generative Adversarial Networks)
-- DCGAN
+- [DCGAN](https://github.com/ski-net/dl_study_with_gluon/tree/master/GAN) (@seujung)
   - https://arxiv.org/pdf/1511.06434.pdf
 - DiscoGAN
   - https://arxiv.org/pdf/1703.05192.pdf
