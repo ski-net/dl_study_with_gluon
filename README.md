@@ -69,7 +69,7 @@ Deep learning to learn while making
 
 
 ### GAN(Generative Adversarial Networks)
-- [DCGAN] (https://github.com/ski-net/dl_study_with_gluon/tree/master/GAN) (@seujung)
+- [DCGAN](https://github.com/ski-net/dl_study_with_gluon/tree/master/GAN) (@seujung)
   - https://arxiv.org/pdf/1511.06434.pdf
 - DiscoGAN
   - https://arxiv.org/pdf/1703.05192.pdf
