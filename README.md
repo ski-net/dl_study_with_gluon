@@ -56,6 +56,7 @@ Deep learning to learn while making
 - Sentiment Classification (@supark, 네이버 영화 평점)
 - seq2seq (@haven-jeon, Addition model)
 - seq2seq with Attention Mechanism (@haven-jeon, Addition model)
+- Text Generation(@EVA01)
 
 ### high-performance learning
 
