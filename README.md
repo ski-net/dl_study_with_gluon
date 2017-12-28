@@ -48,6 +48,8 @@ Deep learning to learn while making
 
 ### Image
 
+### Neural Style Transfer
+-- style transfer (@seujung)
 
 ### NLP
 
