@@ -50,6 +50,7 @@ Deep learning to learn while making
 
 ### Neural Style Transfer
 - fast style transfer (@seujung)
+  - https://arxiv.org/pdf/1603.08155.pdf
 
 ### NLP
 
