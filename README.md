@@ -96,6 +96,9 @@ Deep learning to learn while making
 - Sentiment Analysis using Doc2vec (@hjkim, imdb)
   - http://linanqiu.github.io/2015/10/07/word2vec-sentiment/
 
+### Computer Age Statistical Inference(CASI)
+- https://web.stanford.edu/~hastie/CASI
+
 ## Reference
 
 - https://github.com/zackchase/gluon-slides/blob/master/sept18-gluon.pdf
