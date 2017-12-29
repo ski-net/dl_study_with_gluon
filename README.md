@@ -62,6 +62,7 @@ Deep learning to learn while making
 
 ### Autoencoder
 - simple & conv. Autoencoder compared to Keras (@ljy3795)
+- Recommendation system with Autoencoder (@soohwanjo)
 
 ### Recommandation
 
