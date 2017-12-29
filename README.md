@@ -8,7 +8,7 @@ Deep learning to learn while making
 | Topic      | Date/Time | Location |   Etc | 
 |------------|-----------|----------|-------|
 | Gluon Introduction |  12/22,17:00   | 분석실  |       |   
-| Convolution & Transfer Learning |  12/28,18:00   | T-Lounge, Room G  |   |     
+| Convolution & Transfer Learning |  12/28,17:00   | 분석실  |   |     
 
 ## Topic
 
@@ -49,7 +49,8 @@ Deep learning to learn while making
 ### Image
 
 ### Neural Style Transfer
-- style transfer (@seujung)
+- fast style transfer (@seujung)
+  - https://arxiv.org/pdf/1603.08155.pdf
 
 ### NLP
 
@@ -73,7 +74,7 @@ Deep learning to learn while making
 
 
 ### GAN(Generative Adversarial Networks)
-- [DCGAN](https://github.com/ski-net/dl_study_with_gluon/tree/master/GAN) (@seujung)
+- [DCGAN](GAN) (@seujung)
   - https://arxiv.org/pdf/1511.06434.pdf
 - DiscoGAN
   - https://arxiv.org/pdf/1703.05192.pdf
