@@ -29,6 +29,8 @@ Deep learning to learn while making
 
 - Image classification with MNIST, CIFAR10 (@soohwanjo)
 
+- Image classification with 62 classes Traffic Sign (@June-H)
+
 - AlexNet
   - https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
 - ResNet
