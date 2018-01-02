@@ -51,8 +51,9 @@ Deep learning to learn while making
 ### Image
 
 ### Neural Style Transfer
-- fast style transfer (@seujung)
+- neural style transfer (@seujung)
   - https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf
+- fast neural style transfer (@seujung)
 
 ### NLP
 
@@ -65,6 +66,9 @@ Deep learning to learn while making
 
 ### Autoencoder
 - simple & conv. Autoencoder compared to Keras (@ljy3795)
+
+### Audio
+- wavenet @seujung)
 
 ### Recommandation
 
