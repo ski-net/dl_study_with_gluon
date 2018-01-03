@@ -71,6 +71,7 @@ Deep learning to learn while making
 - seq2seq (@haven-jeon, Addition model)
 - seq2seq with Attention Mechanism (@haven-jeon, Addition model)
 - Text Generation(@EVA01)
+- Text summarization (@haven-jeon,)
 
 ### high-performance learning
 
