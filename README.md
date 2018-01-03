@@ -12,15 +12,19 @@ Deep learning to learn while making
 
 ## Topic
 
+### Linear algebra
+
+- https://github.com/fastai/numerical-linear-algebra
+
+### numpy exercise
+
+- https://github.com/Kyubyong/numpy_exercises
+
 ### Gluon Basic
 
 - Gluon Introduction, 12/22
 - intro mxnet NDArray, Symbol, Model  
 - intro Grad
-
-## Linear algebra
-
-- https://github.com/fastai/numerical-linear-algebra
 
 
 ### Fully Connected  
@@ -73,7 +77,7 @@ Deep learning to learn while making
 - simple & conv. Autoencoder compared to Keras (@ljy3795)
 
 ### Audio
-- wavenet @seujung)
+- wavenet (@seujung)
 
 ### Recommandation
 
