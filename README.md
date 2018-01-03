@@ -18,6 +18,11 @@ Deep learning to learn while making
 - intro mxnet NDArray, Symbol, Model  
 - intro Grad
 
+## Linear algebra
+
+- https://github.com/fastai/numerical-linear-algebra
+
+
 ### Fully Connected  
 
 - [Classification model with MNIST](Fully_Connected) (@seujung)
