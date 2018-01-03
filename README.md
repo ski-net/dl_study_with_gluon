@@ -8,7 +8,9 @@ Deep learning to learn while making
 | Topic      | Date/Time | Location |   Etc | 
 |------------|-----------|----------|-------|
 | Gluon Introduction |  12/22,17:00   | 분석실  |       |   
-| Convolution & Transfer Learning |  12/28,17:00   | 분석실  |   |     
+| Convolution & Transfer Learning |  12/28,17:00   | 분석실  |   |  
+| NDArray(numpy), ..  |  01/04,18:00   | 분석실  |   |  
+
 
 ## Topic
 
@@ -71,6 +73,7 @@ Deep learning to learn while making
 - seq2seq (@haven-jeon, Addition model)
 - seq2seq with Attention Mechanism (@haven-jeon, Addition model)
 - Text Generation(@EVA01)
+- Text summarization (@haven-jeon,)
 
 ### high-performance learning
 
