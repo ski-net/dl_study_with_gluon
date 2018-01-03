@@ -14,11 +14,11 @@ Deep learning to learn while making
 
 ### Linear algebra
 
-- https://github.com/fastai/numerical-linear-algebra
+- https://github.com/fastai/numerical-linear-algebra (@seujung)
 
 ### numpy exercise
 
-- https://github.com/Kyubyong/numpy_exercises
+- https://github.com/Kyubyong/numpy_exercises (@seujung)
 
 ### Gluon Basic
 
