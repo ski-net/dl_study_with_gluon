@@ -56,6 +56,7 @@ Deep learning to learn while making
 ### Recurrent
 - Sound Data Classification with Whale Sound Data (@hongdm7)
 - Stock Price Prediction with Amazon Stock Data (@hyeminchoe)
+- RNN with language model (@seujung)
 
 ### Image
 
