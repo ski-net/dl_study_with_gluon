@@ -80,6 +80,7 @@ Deep learning to learn while making
 
 ### Autoencoder
 - simple & conv. Autoencoder compared to Keras (@ljy3795)
+- Recommendation with Aucoencoder (@soohwanjo)
 
 ### Audio
 - wavenet (@seujung)
