@@ -27,6 +27,7 @@ Deep learning to learn while making
 - Gluon Introduction, 12/22
 - intro mxnet NDArray, Symbol, Model  
 - intro Grad
+- [intro with MNIST](Basic/MNIST_Basic.ipynb) (@soohwanjo)
 
 
 ### Fully Connected  
@@ -38,7 +39,8 @@ Deep learning to learn while making
 - [Image classification with Convolution](Convolution/cats_and_dogs_conv.ipynb) (@haven-jeon, cats and dogs )
 - [Transfer Leraning](Convolution/cats_and_dogs_conv_transfer.ipynb) (@haven-jeon, cats and dogs classification)
 
-- Image classification with MNIST, CIFAR10 (@soohwanjo)
+- [Image classification with MNIST](Convolution/MNIST.ipynb) (@soohwanjo)
+- Image classification with CIFAR10 (@soohwanjo)
 
 - Image classification with 62 classes Traffic Sign (@June-H)
 
