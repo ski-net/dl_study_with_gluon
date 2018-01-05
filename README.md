@@ -9,7 +9,7 @@ Deep learning to learn while making
 |------------|-----------|----------|-------|
 | Gluon Introduction |  12/22,17:00   | 분석실  |       |   
 | Convolution & Transfer Learning |  12/28,17:00   | 분석실  |   |  
-| Introduction with MNIST, ..  |  01/04,18:00   | 분석실  |   |  
+| Intro with MNIST(Logistic, FC, CNN), ..  |  01/04,18:00   | 분석실  |   |  
 
 
 ## Topic
