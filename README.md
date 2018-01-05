@@ -112,12 +112,8 @@ Deep learning to learn while making
   - https://arxiv.org/pdf/1606.05908.pdf
 
 ### Embedding
-- Word2Vec (@hjkim, imdb)
+- [Word2Vec](Embedding/word2vec_skipgram_with_gluon.ipynb) (@hjkim, text8)
   - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.764.2227&rep=rep1&type=pdf
-- Doc2Vec (@hjkim, imdb)
-  - https://arxiv.org/pdf/1405.4053v2.pdf
-- Sentiment Analysis using Doc2vec (@hjkim, imdb)
-  - http://linanqiu.github.io/2015/10/07/word2vec-sentiment/
 
 ### Computer Age Statistical Inference(CASI)
 - https://web.stanford.edu/~hastie/CASI
