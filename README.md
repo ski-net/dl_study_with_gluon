@@ -70,6 +70,9 @@ Deep learning to learn while making
   - https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf
 - fast neural style transfer (@seujung)
 
+### pix2pix
+- pix2pix (@hjkim)
+
 ### NLP
 
 - Sentiment Classification (@supark, 네이버 영화 평점)
@@ -97,6 +100,8 @@ Deep learning to learn while making
 
 
 ### GAN(Generative Adversarial Networks)
+- GAN (@hjkim)
+  - https://arxiv.org/pdf/1406.2661.pdf
 - [DCGAN](GAN) (@seujung)
   - https://arxiv.org/pdf/1511.06434.pdf
 - DiscoGAN
