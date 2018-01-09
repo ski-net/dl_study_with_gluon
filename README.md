@@ -26,7 +26,7 @@ Deep learning to learn while making
 ### Gluon Basic
 
 - Gluon Introduction, 12/22
-- intro mxnet NDArray, Symbol, Model  
+- [Intro mxnet NDArray, Symbol, Model](Intro%20mxnet/Intro%20mxnet%20NDArray,%20Symbol,%20Model.ipynb) (@hyemin.choe)
 - intro Grad
 - [intro with MNIST](Basic/MNIST_Basic.ipynb) (@soohwanjo)
 
@@ -61,7 +61,7 @@ Deep learning to learn while making
 
 ### Recurrent
 - [Introduction of Audio Data](Recurrent) (@hongdm7, Whale Sound Data)
-- Stock Price Prediction with Amazon Stock Data (@hyeminchoe)
+- Stock Price Prediction with Amazon Stock Data (@hyemin.choe)
 - RNN with language model (@seujung)
 
 
