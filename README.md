@@ -109,7 +109,7 @@ Deep learning to learn while making
   - https://arxiv.org/pdf/1703.05192.pdf
 - WGAN
   - https://arxiv.org/pdf/1701.07875.pdf
-- BeGAN
+- BeGAN (@seujung)
   - https://arxiv.org/pdf/1703.10717.pdf
 
 ### VAE(Variational Auto Encoder)
