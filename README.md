@@ -8,8 +8,9 @@ Deep learning to learn while making
 | Topic      | Date/Time | Location |   Etc | 
 |------------|-----------|----------|-------|
 | Gluon Introduction |  12/22,17:00   | 분석실  |       |   
-| Convolution & Transfer Learning |  12/28,17:00   | 분석실  |   |  
-| NDArray(numpy), ..  |  01/04,18:00   | 분석실  |   |  
+| [Convolution](Convolution/cats_and_dogs_conv.ipynb) & [Transfer Learning](Convolution/cats_and_dogs_conv_transfer.ipynb) |  12/28,17:00   | 분석실  |   |  
+| [Intro with MNIST(Logistic, FC,](Basic/MNIST_Basic.ipynb)[ CNN)](Convolution/MNIST.ipynb),[Embedding](Embedding/word2vec_skipgram_with_gluon.ipynb), [Intro Audio Data Analysis](Recurrent/Introduction%20of%20Audio%20Data.ipynb)  |  01/04,18:00   | 분석실  |   |  
+| [Style Transfer](Style_transfer/style_transfer_vgg19_gluon.ipynb)(0h20m), [Fashion MNIST](Convolution/fashion_mnist.ipynb)(0h10m) |  01/11,18:00   | 분석실  |   | 
 
 
 ## Topic
@@ -25,7 +26,7 @@ Deep learning to learn while making
 ### Gluon Basic
 
 - Gluon Introduction, 12/22
-- intro mxnet NDArray, Symbol, Model  
+- [Intro mxnet NDArray, Symbol, Model](Intro%20mxnet/Intro%20mxnet%20NDArray,%20Symbol,%20Model.ipynb) (@hyemin.choe)
 - intro Grad
 - [intro with MNIST](Basic/MNIST_Basic.ipynb) (@soohwanjo)
 
@@ -37,6 +38,7 @@ Deep learning to learn while making
 ### Convolution
 
 - [Image classification with Convolution](Convolution/cats_and_dogs_conv.ipynb) (@haven-jeon, cats and dogs )
+- [Fashion MNIST](Convolution/fashion_mnist.ipynb)
 - [Transfer Leraning](Convolution/cats_and_dogs_conv_transfer.ipynb) (@haven-jeon, cats and dogs classification)
 
 - [Image classification with MNIST](Convolution/MNIST.ipynb) (@soohwanjo)
@@ -59,7 +61,7 @@ Deep learning to learn while making
 
 ### Recurrent
 - [Introduction of Audio Data](Recurrent) (@hongdm7, Whale Sound Data)
-- Stock Price Prediction with Amazon Stock Data (@hyeminchoe)
+- Stock Price Prediction with Amazon Stock Data (@hyemin.choe)
 - RNN with language model (@seujung)
 
 
@@ -69,6 +71,9 @@ Deep learning to learn while making
 - [neural style transfer](Style_transfer/style_transfer_vgg19_gluon.ipynb) (@seujung)
   - https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf
 - fast neural style transfer (@seujung)
+
+### pix2pix
+- pix2pix (@hjkim)
 
 ### NLP
 
@@ -97,13 +102,15 @@ Deep learning to learn while making
 
 
 ### GAN(Generative Adversarial Networks)
+- GAN (@hjkim)
+  - https://arxiv.org/pdf/1406.2661.pdf
 - [DCGAN](GAN) (@seujung)
   - https://arxiv.org/pdf/1511.06434.pdf
 - DiscoGAN
   - https://arxiv.org/pdf/1703.05192.pdf
 - WGAN
   - https://arxiv.org/pdf/1701.07875.pdf
-- BeGAN
+- BeGAN (@seujung)
   - https://arxiv.org/pdf/1703.10717.pdf
 
 ### VAE(Variational Auto Encoder)
@@ -112,12 +119,8 @@ Deep learning to learn while making
   - https://arxiv.org/pdf/1606.05908.pdf
 
 ### Embedding
-- Word2Vec (@hjkim, imdb)
+- [Word2Vec](Embedding/word2vec_skipgram_with_gluon.ipynb) (@hjkim, text8)
   - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.764.2227&rep=rep1&type=pdf
-- Doc2Vec (@hjkim, imdb)
-  - https://arxiv.org/pdf/1405.4053v2.pdf
-- Sentiment Analysis using Doc2vec (@hjkim, imdb)
-  - http://linanqiu.github.io/2015/10/07/word2vec-sentiment/
 
 ### Computer Age Statistical Inference(CASI)
 - https://web.stanford.edu/~hastie/CASI
