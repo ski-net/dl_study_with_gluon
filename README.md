@@ -103,7 +103,7 @@ Deep learning to learn while making
 
 
 ### GAN(Generative Adversarial Networks)
-- GAN(GAN/GAN_1D_Array.ipynb) (@hjkim)
+- [GAN](GAN/GAN_1D_Array.ipynb) (@hjkim)
   - https://arxiv.org/pdf/1406.2661.pdf
 - [DCGAN](GAN) (@seujung)
   - https://arxiv.org/pdf/1511.06434.pdf
