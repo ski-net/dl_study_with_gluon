@@ -11,6 +11,7 @@ Deep learning to learn while making
 | [Convolution](Convolution/cats_and_dogs_conv.ipynb) & [Transfer Learning](Convolution/cats_and_dogs_conv_transfer.ipynb) |  12/28,17:00   | 분석실  |   |  
 | [Intro with MNIST(Logistic, FC,](Basic/MNIST_Basic.ipynb)[ CNN)](Convolution/MNIST.ipynb),[Embedding](Embedding/word2vec_skipgram_with_gluon.ipynb), [Intro Audio Data Analysis](Recurrent/Introduction%20of%20Audio%20Data.ipynb)  |  01/04,18:00   | 분석실  |   |  
 | [Style Transfer](Style_transfer/style_transfer_vgg19_gluon.ipynb)(0h20m), [Fashion MNIST](Convolution/fashion_mnist.ipynb)(0h10m), [Traffic Sign Recognition](https://github.com/ski-net/dl_study_with_gluon/blob/master/Convolution/Traffic%20Sign.ipynb)(0h15m), [Intro MXNet](Intro%20mxnet/Intro%20mxnet%20NDArray,%20Symbol,%20Model.ipynb)(0h10m) |  01/11,18:00   | 분석실  |   | 
+| [Intro with GAN](GAN/GAN_1D_Array.ipynb)(0h15m)  |  01/16,18:00   | 분석실  |   |  
 
 
 ## Topic
@@ -102,7 +103,7 @@ Deep learning to learn while making
 
 
 ### GAN(Generative Adversarial Networks)
-- GAN (@hjkim)
+- [GAN](GAN/GAN_1D_Array.ipynb) (@hjkim)
   - https://arxiv.org/pdf/1406.2661.pdf
 - [DCGAN](GAN) (@seujung)
   - https://arxiv.org/pdf/1511.06434.pdf
