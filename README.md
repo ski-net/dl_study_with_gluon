@@ -40,6 +40,8 @@ Deep learning to learn while making
 - [Image classification with Convolution](Convolution/cats_and_dogs_conv.ipynb) (@haven-jeon, cats and dogs )
 - [Fashion MNIST](Convolution/fashion_mnist.ipynb)
 - [Transfer Leraning](Convolution/cats_and_dogs_conv_transfer.ipynb) (@haven-jeon, cats and dogs classification)
+- [CAM and Grad CAM](Convolution/multi_gpu_transfer_cats_and_dogs_cam_grad_cam.ipynb) (@haven-jeon, cats and dogs classification)
+
 
 - [Image classification with MNIST](Convolution/MNIST.ipynb) (@soohwanjo)
 - Image classification with CIFAR10 (@soohwanjo)
