@@ -116,7 +116,7 @@ Deep learning to learn while making
   - https://arxiv.org/pdf/1703.10717.pdf
 
 ### VAE(Variational Auto Encoder)
-i- [Introduction to VAE](VAE/notebooks/VAE.ipynb)
+- [Introduction to VAE](VAE/notebooks/VAE.ipynb)
 - Tutorial on Variational Autoencoders (@kionkim)
   - https://arxiv.org/pdf/1606.05908.pdf
 
