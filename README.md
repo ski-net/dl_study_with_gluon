@@ -114,6 +114,8 @@ Deep learning to learn while making
   - https://arxiv.org/pdf/1701.07875.pdf
 - BeGAN (@seujung)
   - https://arxiv.org/pdf/1703.10717.pdf
+- BiGAN (@hjkim)
+  - https://arxiv.org/pdf/1605.09782.pdf
 
 ### VAE(Variational Auto Encoder)
 - [Introduction to VAE](VAE/notebooks/VAE.ipynb)
