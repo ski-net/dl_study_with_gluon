@@ -13,6 +13,10 @@ Deep learning to learn while making
 | [Style Transfer](Style_transfer/style_transfer_vgg19_gluon.ipynb)(0h20m), [Fashion MNIST](Convolution/fashion_mnist.ipynb)(0h10m), [Traffic Sign Recognition](https://github.com/ski-net/dl_study_with_gluon/blob/master/Convolution/Traffic%20Sign.ipynb)(0h15m), [Intro MXNet](Intro%20mxnet/Intro%20mxnet%20NDArray,%20Symbol,%20Model.ipynb)(0h10m) |  01/11,18:00   | 분석실  |   | 
 | [Intro to GAN](GAN/GAN_1D_Array.ipynb)(0h15m),  [Intro to VAE](VAE/notebooks/VAE.ipynb)(0h30m) |  01/16,18:00   | 분석실  |   |  
 
+- [Attendance](https://docs.google.com/spreadsheets/d/1SCedAxS5-8sB-WqNi0bNPFh-R9IXHNOnx2k2eoDbsYg/edit?usp=sharing)
+
+
+
 ## Topic
 
 ### Linear algebra
@@ -114,9 +118,11 @@ Deep learning to learn while making
   - https://arxiv.org/pdf/1701.07875.pdf
 - BeGAN (@seujung)
   - https://arxiv.org/pdf/1703.10717.pdf
+- BiGAN (@hjkim)
+  - https://arxiv.org/pdf/1605.09782.pdf
 
 ### VAE(Variational Auto Encoder)
-i- [Introduction to VAE](VAE/notebooks/VAE.ipynb)
+- [Introduction to VAE](VAE/notebooks/VAE.ipynb)
 - Tutorial on Variational Autoencoders (@kionkim)
   - https://arxiv.org/pdf/1606.05908.pdf
 
