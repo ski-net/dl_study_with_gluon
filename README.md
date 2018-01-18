@@ -15,6 +15,8 @@ Deep learning to learn while making
 
 - [Attendance](https://docs.google.com/spreadsheets/d/1SCedAxS5-8sB-WqNi0bNPFh-R9IXHNOnx2k2eoDbsYg/edit?usp=sharing)
 
+
+
 ## Topic
 
 ### Linear algebra
