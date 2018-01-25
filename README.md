@@ -54,6 +54,8 @@ Deep learning to learn while making
 
 - Image classification with 62 classes Traffic Sign (@June-H)
 
+- Medical Image Segmentation (@supark)
+
 - AlexNet
   - https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
 - ResNet
