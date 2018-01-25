@@ -97,7 +97,7 @@ Deep learning to learn while making
 - Recommendation with Aucoencoder (@soohwanjo)
 
 ### Audio
-- wavenet (@seujung)
+- wavenet
 
 ### Recommandation
 
@@ -133,6 +133,11 @@ Deep learning to learn while making
 
 ### Computer Age Statistical Inference(CASI)
 - https://web.stanford.edu/~hastie/CASI
+
+### QA
+- relational network (@seujung)
+  - https://arxiv.org/pdf/1706.01427.pdf
+
 
 ## Reference
 
