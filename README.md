@@ -13,6 +13,8 @@ Deep learning to learn while making
 | [Style Transfer](Style_transfer/style_transfer_vgg19_gluon.ipynb)(0h20m), [Fashion MNIST](Convolution/fashion_mnist.ipynb)(0h10m), [Traffic Sign Recognition](https://github.com/ski-net/dl_study_with_gluon/blob/master/Convolution/Traffic%20Sign.ipynb)(0h15m), [Intro MXNet](Intro%20mxnet/Intro%20mxnet%20NDArray,%20Symbol,%20Model.ipynb)(0h10m) |  01/11,18:00   | 분석실  |   | 
 | [Intro to GAN](GAN/GAN_1D_Array.ipynb)(0h15m),  [Intro to VAE](VAE/notebooks/VAE.ipynb)(0h30m) |  01/16,18:00   | 분석실  |   | 
 | [Multi GPU](Basic/multi_gpu_intro.ipynb)(0h20m), [Autoencoder](https://github.com/ski-net/dl_study_with_gluon/blob/master/autoencoder/Autoencoder_w_gluon.ipynb)(0h30m), [Transfer Learning](https://github.com/ski-net/dl_study_with_gluon/blob/master/Convolution/FCN_Alexnet_using_Gluon.ipynb) (0h40m)  |  01/25,18:00   | 분석실  |   | 
+| RNNs with Audio Classification(0h30m), CAM with Traffic Sign Classification(0h 20m) | 02/01,18:00  | 분석실 |   |  
+| [Korean-English Neural Machine Translater](https://github.com/haven-jeon/ko_en_neural_machine_translation)(0h40m) | 02/08,18:00  | 분석실 |   |
 
 
 - [Attendance](https://docs.google.com/spreadsheets/d/1SCedAxS5-8sB-WqNi0bNPFh-R9IXHNOnx2k2eoDbsYg/edit?usp=sharing)
@@ -77,6 +79,9 @@ Deep learning to learn while making
 
 ### Image
 
+### Deep Dream
+- deep dream (@soohwanjo)
+
 ### Neural Style Transfer
 - [neural style transfer](Style_transfer/style_transfer_vgg19_gluon.ipynb) (@seujung)
   - https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf
@@ -103,6 +108,7 @@ Deep learning to learn while making
 - wavenet
 
 ### Recommandation
+- movielens recommendation by deep matrix factorization (@ljy3795)
 
 ### XAI
 - The Bayesian Case Model: A Generative Approach for Case-Based Reasoning and Prototype Classification (@kionkim)
