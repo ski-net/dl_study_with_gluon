@@ -105,6 +105,7 @@ Deep learning to learn while making
 - seq2seq with Attention Mechanism (@haven-jeon, Addition model)
 - Text Generation(@EVA01)
 - Text summarization (@haven-jeon,)
+- [Korean-English Neural Machine Translater](https://github.com/haven-jeon/ko_en_neural_machine_translation) (@haven-jeon)
 
 ### high-performance learning
 
