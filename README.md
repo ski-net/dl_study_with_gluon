@@ -16,6 +16,12 @@ Deep learning to learn while making
 | RNNs with Audio Classification(0h30m), CAM with Traffic Sign Classification(0h 20m) | 02/01,18:00  | 분석실 |   |  
 | [Korean-English Neural Machine Translater](https://github.com/haven-jeon/ko_en_neural_machine_translation)(0h40m), [Soft Decision Tree](https://github.com/ski-net/dl_study_with_gluon/Soft_Decision_Tree/soft_decision_tree.ipynb) (0h30m) | 02/08,18:00  | 분석실 |   |
 | [QA- Multimodal Compact Bilinear Pooling](https://github.com/ski-net/dl_study_with_gluon/Soft_Decision_Tree/Question_Answering_in_gluon.ipynb) (0h30m), [BEGAN](GAN/BEGAN_Example_dim64_gluon.ipynb) (0h20m)  | 02/13,18:00  | 분석실 |   |
+| ...  | 02/22,18:00  | 분석실 |   |
+| ...  | 02/28,18:00  | 분석실 |   |
+| relational network  | 03/08,18:00  | 분석실 |   |
+| ...  | 03/15,18:00  | 분석실 |   |
+| ...  | 03/22,18:00  | 분석실 |   |
+| ...  | 03/29,18:00  | 분석실 |   |
 
 
 
