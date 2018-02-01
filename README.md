@@ -64,7 +64,7 @@ Deep learning to learn while making
 
 - Image classification with 62 classes Traffic Sign (@June-H)
 
-- [Medical Image Segmentation](https://github.com/ski-net/dl_study_with_gluon/blob/master/Convolution/FCN_Alexnet_using_Gluon.ipynb) (@supark)
+- [Medical Image Segmentation](Convolution/FCN_Alexnet_using_Gluon.ipynb) (@supark)
 
 - AlexNet
   - https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
@@ -109,7 +109,7 @@ Deep learning to learn while making
 ### high-performance learning
 
 ### Autoencoder
-- [simple & conv. Autoencoder](https://github.com/ski-net/dl_study_with_gluon/blob/master/autoencoder/Autoencoder_w_gluon.ipynb) (@ljy3795)
+- [simple & conv. Autoencoder](autoencoder/Autoencoder_w_gluon.ipynb) (@ljy3795)
 - Recommendation with Aucoencoder (@soohwanjo)
 
 ### Audio
