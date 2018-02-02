@@ -18,7 +18,7 @@ Deep learning to learn while making
 | [QA- Multimodal Compact Bilinear Pooling](Soft_Decision_Tree/Question_Answering_in_gluon.ipynb) (0h30m), [BEGAN](GAN/BEGAN_Example_dim64_gluon.ipynb) (0h20m), Deep Dream (0h20m)  | 02/13,18:00  | 분석실 |kionkim, seujung |
 | [Korean-English Neural Machine Translater](https://github.com/haven-jeon/ko_en_neural_machine_translation)(0h40m)  | 02/22,18:00  | 분석실 |haven-jeon  |
 | IntegratedGradients (0h30m)  | 02/28,18:00  | 분석실 |   |
-| relational network  | 03/08,18:00  | 분석실 |seujung   |
+| relational network, DQN  | 03/08,18:00  | 분석실 |seujung, hongdm7   |
 | ...  | 03/15,18:00  | 분석실 |   |
 | ...  | 03/22,18:00  | 분석실 |   |
 | ...  | 03/29,18:00  | 분석실 |   |
@@ -80,7 +80,8 @@ Deep learning to learn while making
 
 
 ### Recurrent
-- [Introduction of Audio Data](Recurrent) (@hongdm7, Whale Sound Data)
+- [Introduction of Audio Data](Recurrent/) (@hongdm7, Whale Sound Data)
+- [RNNs with Audio Classification](Recurrent/) (@hongdm7, Whale Sound Data)
 - Stock Price Prediction with Amazon Stock Data (@hyemin.choe)
 
 
@@ -154,6 +155,9 @@ Deep learning to learn while making
 ### QA
 - relational network (@seujung)
   - https://arxiv.org/pdf/1706.01427.pdf
+
+### Reinforcement Learning
+- DQN(Deep Q-Network) (@hongdm7)
 
 
 ## Reference
