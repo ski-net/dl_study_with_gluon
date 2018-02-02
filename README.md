@@ -11,8 +11,8 @@ Deep learning to learn while making
 | [Convolution](Convolution/cats_and_dogs_conv.ipynb) & [Transfer Learning](Convolution/cats_and_dogs_conv_transfer.ipynb) |  12/28,17:00   | 분석실  |haven-jeon  |  
 | [Intro with MNIST(Logistic, FC,](Basic/MNIST_Basic.ipynb)[ CNN)](Convolution/MNIST.ipynb),[Embedding](Embedding/word2vec_skipgram_with_gluon.ipynb), [Intro Audio Data Analysis](Recurrent/Introduction%20of%20Audio%20Data.ipynb)  |  01/04,18:00   | 분석실  |soohwanjo, soeque1, hongdm7 |  
 | [Style Transfer](Style_transfer/style_transfer_vgg19_gluon.ipynb)(0h20m), [Fashion MNIST](Convolution/fashion_mnist.ipynb)(0h10m), [Traffic Sign Recognition](Convolution/Traffic%20Sign.ipynb)(0h15m), [Intro MXNet](Intro%20mxnet/Intro%20mxnet%20NDArray,%20Symbol,%20Model.ipynb)(0h10m) |  01/11,18:00   | 분석실  |seujung, haven-jeon, June-H, hyemin15  | 
-| [Intro to GAN](GAN/GAN_1D_Array.ipynb)(0h15m),  [Intro to VAE](VAE/notebooks/VAE.ipynb)(0h30m) |  01/16,18:00   | 분석실  |   | 
-| [Multi GPU](Basic/multi_gpu_intro.ipynb)(0h20m), [Autoencoder](autoencoder/Autoencoder_w_gluon.ipynb)(0h30m), [Transfer Learning](Convolution/FCN_Alexnet_using_Gluon.ipynb) (0h40m)  |  01/25,18:00   | 분석실  |   | 
+| [Intro to GAN](GAN/GAN_1D_Array.ipynb)(0h15m),  [Intro to VAE](VAE/notebooks/VAE.ipynb)(0h30m) |  01/16,18:00   | 분석실  |soeque1, kionkim   | 
+| [Multi GPU](Basic/multi_gpu_intro.ipynb)(0h20m), [Autoencoder](autoencoder/Autoencoder_w_gluon.ipynb)(0h30m), [Transfer Learning](Convolution/FCN_Alexnet_using_Gluon.ipynb) (0h40m)  |  01/25,18:00   | 분석실  |  | 
 | [RNNs with Audio Classification](Recurrent/)(0h30m), [CAM with Traffic Sign Classification](Convolution/Traffic%20Sign.ipynb)(0h 20m) | 02/01,18:00  | 분석실 |   |  
 | [Pix2Pix]()(0h25m), [Soft Decision Tree](Soft_Decision_Tree/soft_decision_tree.ipynb) (0h30m) | 02/08,18:00  | 분석실 |   |
 | [QA- Multimodal Compact Bilinear Pooling](Soft_Decision_Tree/Question_Answering_in_gluon.ipynb) (0h30m), [BEGAN](GAN/BEGAN_Example_dim64_gluon.ipynb) (0h20m), Deep Dream (0h20m)  | 02/13,18:00  | 분석실 |   |
