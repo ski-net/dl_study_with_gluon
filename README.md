@@ -6,7 +6,7 @@ Deep learning to learn while making
 ## Schedule
 
 | Topic      | Date/Time | Location |   Presentor | 
-|------------|-----------|----------|-------|
+|-----------|----------|---------|---------|
 | Gluon Introduction |  12/22,17:00   | 분석실  | haven-jeon ,seujung     |   
 | [Convolution](Convolution/cats_and_dogs_conv.ipynb) & [Transfer Learning](Convolution/cats_and_dogs_conv_transfer.ipynb) |  12/28,17:00   | 분석실  | haven-jeon  |  
 | [Intro with MNIST(Logistic, FC,](Basic/MNIST_Basic.ipynb)[ CNN)](Convolution/MNIST.ipynb),[Embedding](Embedding/word2vec_skipgram_with_gluon.ipynb), [Intro Audio Data Analysis](Recurrent/Introduction%20of%20Audio%20Data.ipynb)  |  01/04,18:00   | 분석실  |   |  
