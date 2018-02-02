@@ -14,9 +14,9 @@ Deep learning to learn while making
 | [Intro to GAN](GAN/GAN_1D_Array.ipynb)(0h15m),  [Intro to VAE](VAE/notebooks/VAE.ipynb)(0h30m) |  01/16,18:00   | 분석실  |soeque1, kionkim   | 
 | [Multi GPU](Basic/multi_gpu_intro.ipynb)(0h20m), [Autoencoder](autoencoder/Autoencoder_w_gluon.ipynb)(0h30m), [Transfer Learning](Convolution/FCN_Alexnet_using_Gluon.ipynb) (0h40m)  |  01/25,18:00   | 분석실  |haven-jeon, ljy3795, su-park  | 
 | [RNNs with Audio Classification](Recurrent/)(0h30m), [CAM with Traffic Sign Classification](Convolution/Traffic%20Sign.ipynb)(0h 20m) | 02/01,18:00  | 분석실 |hongdm7, June-H  |  
-| [Pix2Pix]()(0h25m), [Soft Decision Tree](Soft_Decision_Tree/soft_decision_tree.ipynb) (0h30m) | 02/08,18:00  | 분석실 |   |
+| [Pix2Pix]()(0h25m), [Soft Decision Tree](Soft_Decision_Tree/soft_decision_tree.ipynb) (0h30m) | 02/08,18:00  | 분석실 |soeque1, kionkim   |
 | [QA- Multimodal Compact Bilinear Pooling](Soft_Decision_Tree/Question_Answering_in_gluon.ipynb) (0h30m), [BEGAN](GAN/BEGAN_Example_dim64_gluon.ipynb) (0h20m), Deep Dream (0h20m)  | 02/13,18:00  | 분석실 |kionkim, seujung |
-| [Korean-English Neural Machine Translater](https://github.com/haven-jeon/ko_en_neural_machine_translation)(0h40m), [Soft Decision Tree](Soft_Decision_Tree/soft_decision_tree.ipynb) (0h30m)  | 02/22,18:00  | 분석실 |haven-jeon, kionkim   |
+| [Korean-English Neural Machine Translater](https://github.com/haven-jeon/ko_en_neural_machine_translation)(0h40m)  | 02/22,18:00  | 분석실 |haven-jeon  |
 | IntegratedGradients (0h30m)  | 02/28,18:00  | 분석실 |   |
 | relational network  | 03/08,18:00  | 분석실 |seujung   |
 | ...  | 03/15,18:00  | 분석실 |   |
