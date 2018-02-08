@@ -19,7 +19,7 @@ Deep learning to learn while making
 | [Korean-English Neural Machine Translater](https://github.com/haven-jeon/ko_en_neural_machine_translation)(0h40m)  | 02/22,18:00  | 분석실 |haven-jeon  |
 | IntegratedGradients (0h30m), CapsNet (0h30m)  | 02/28,18:00  | 분석실 | kionkim  |
 | relational network, Reinforcement Learning  | 03/08,18:00  | 분석실 |seujung, (hongdm7, June-H, hyemin15, soohwanjo)   |
-| ...  | 03/15,18:00  | 분석실 |   |
+| Anomaly detection w Autoencoder  | 03/15,18:00  | 분석실 |ljy3795   |
 | ...  | 03/22,18:00  | 분석실 |   |
 | ...  | 03/29,18:00  | 분석실 |   |
 
@@ -112,6 +112,7 @@ Deep learning to learn while making
 ### Autoencoder
 - [simple & conv. Autoencoder](autoencoder/Autoencoder_w_gluon.ipynb) (@ljy3795)
 - Recommendation with Aucoencoder (@soohwanjo)
+- Anomaly detection with Autoencoder (@ljy3795)
 
 ### Audio
 - wavenet
