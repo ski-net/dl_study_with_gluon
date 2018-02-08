@@ -118,7 +118,7 @@ Deep learning to learn while making
 - wavenet
 
 ### Recommandation
-- [Movielens recommendation by deep matrix factorization](https://github.com/ski-net/dl_study_with_gluon/blob/master/Recommendation/180208_Deep_Matrix_Factorizaiton.ipynb) (@ljy3795)
+- [Deep Matrix Factorization](https://github.com/ski-net/dl_study_with_gluon/blob/master/Recommendation/180208_Deep_Matrix_Factorizaiton.ipynb) (@ljy3795)
 
 ### XAI
 - The Bayesian Case Model: A Generative Approach for Case-Based Reasoning and Prototype Classification (@kionkim)
