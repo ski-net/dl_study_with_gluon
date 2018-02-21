@@ -42,7 +42,7 @@ Deep learning to learn while making
 ### Gluon Basic
 
 - Gluon Introduction, 12/22
-- [Intro mxnet NDArray, Symbol, Model](Intro%20mxnet/Intro%20mxnet%20NDArray,%20Symbol,%20Model.ipynb) (@hyemin.choe)
+- [Intro mxnet NDArray, Symbol, Model](Intro%20mxnet/Intro%20mxnet%20NDArray,%20Symbol,%20Model.ipynb) (@hyemin15)
 - intro Grad
 - [intro with MNIST](Basic/MNIST_Basic.ipynb) (@soohwanjo)
 
