@@ -17,7 +17,7 @@ Deep learning to learn while making
 | [Pix2Pix](GAN/pix2pix.ipynb)(0h25m), [Deep Matrix Factorization](https://github.com/ski-net/dl_study_with_gluon/blob/master/Recommendation/180214_Deep_Matrix_Factorizaiton.ipynb) (0h20m) | 02/08,18:00  | 분석실 |soeque1, ljy3795, kionkim   |
 | [introduction Deep Learning references](reference/dl_reference.md)  | 03/14,12:00  | 분석실 |  seujung |
 | [Soft Decision Tree](soft_decision_tree/notebooks/soft_decision_tree_ver_2.ipynb) (0h30m),  [BEGAN](GAN/BEGAN_Example_dim64_gluon.ipynb) (0h20m), Deep Dream (0h20m)  | 02/22,18:00  | 분석실 |kionkim, seujung, soohwanjo |
-| [Korean-English Neural Machine Translater](https://github.com/haven-jeon/ko_en_neural_machine_translation)(0h40m)  | 03/01,18:00  | 분석실 |haven-jeon  |
+| [Korean-English Neural Machine Translater](https://github.com/haven-jeon/ko_en_neural_machine_translation)(0h40m)  | 02/28,18:00  | 분석실 |haven-jeon  |
 | IntegratedGradients (0h30m), CapsNet (0h30m),[QA- Multimodal Compact Bilinear Pooling](QA/Question_Answering_in_gluon.ipynb) (0h30m) | 03/08,18:00  | 분석실 | kionkim  |
 | relational network, Reinforcement Learning  | 03/15,18:00  | 분석실 |seujung, (hongdm7, June-H, hyemin15, soohwanjo)  5 |
 | Anomaly detection w Autoencoder  | 03/22,18:00  | 분석실 |ljy3795   |
