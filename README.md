@@ -119,6 +119,7 @@ Deep learning to learn while making
 
 ### Recommandation
 - [Deep Matrix Factorization](https://github.com/ski-net/dl_study_with_gluon/blob/master/Recommendation/180214_Deep_Matrix_Factorizaiton.ipynb) (@ljy3795)
+- [Deep Matrix Factorization -- Fix InnerProduct Calculations] (https://github.com/su-park/dl_study_with_gluon/blob/master/Recommendation/Deep%20Matrix%20Factorization%20using%20Gluon.ipynb) (@supark)
 
 ### XAI
 - The Bayesian Case Model: A Generative Approach for Case-Based Reasoning and Prototype Classification (@kionkim)
