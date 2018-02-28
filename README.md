@@ -60,11 +60,12 @@ Deep learning to learn while making
 
 
 - [Image classification with MNIST](Convolution/MNIST.ipynb) (@soohwanjo)
-- Image classification with CIFAR10 (@soohwanjo)
 
 - Image classification with 62 classes Traffic Sign (@June-H)
 
 - [Medical Image Segmentation](Convolution/FCN_Alexnet_using_Gluon.ipynb) (@supark)
+
+- Super resolution (@soohwanjo)
 
 - AlexNet
   - https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
@@ -111,7 +112,6 @@ Deep learning to learn while making
 
 ### Autoencoder
 - [simple & conv. Autoencoder](autoencoder/Autoencoder_w_gluon.ipynb) (@ljy3795)
-- Recommendation with Aucoencoder (@soohwanjo)
 - Anomaly detection with Autoencoder (@ljy3795)
 
 ### Audio
