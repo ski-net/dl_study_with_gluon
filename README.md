@@ -18,7 +18,7 @@ Deep learning to learn while making
 | [introduction Deep Learning references](reference/dl_reference.md)  | 03/14,12:00  | 분석실 |  seujung |
 | [Soft Decision Tree](soft_decision_tree/notebooks/soft_decision_tree_ver_2.ipynb) (0h30m),   [Deep Dream](Deep_dream/deep_dream.ipynb) (0h20m)  | 02/22,18:00  | 분석실 |kionkim, soohwanjo |
 | [Korean-English Neural Machine Translater](https://github.com/haven-jeon/ko_en_neural_machine_translation)(0h40m)  | 02/28,18:00  | 분석실 |haven-jeon  |
-| IntegratedGradients (0h30m), [BEGAN](GAN/BEGAN/BEGAN_Example_dim64_gluon.ipynb) (0h20m),[QA- Multimodal Compact Bilinear Pooling](QA/Question_Answering_in_gluon.ipynb) (0h30m) | 03/08,18:00  | 분석실 | kionkim, seujung , hyemin15  |
+| IntegratedGradients (0h30m), [BEGAN](GAN/BEGAN) (0h20m),[QA- Multimodal Compact Bilinear Pooling](QA/Question_Answering_in_gluon.ipynb) (0h30m) | 03/08,18:00  | 분석실 | kionkim, seujung , hyemin15  |
 | relational network, DQN, DDQN  | 03/15,18:00  | 분석실 |seujung, soohwanjo, hongdm7 |
 | Anomaly detection w Autoencoder, CapsNet(0h30m)  | 03/22,18:00  | 분석실 |ljy3795, kionkim   |
 | ...  | 03/29,18:00  | 분석실 |   |
