@@ -19,7 +19,7 @@ Deep learning to learn while making
 | [Soft Decision Tree](soft_decision_tree/notebooks/soft_decision_tree_ver_2.ipynb) (0h30m),   [Deep Dream](Deep_dream/deep_dream.ipynb) (0h20m)  | 02/22,18:00  | 분석실 |kionkim, soohwanjo |
 | [Korean-English Neural Machine Translater](https://github.com/haven-jeon/ko_en_neural_machine_translation)(0h40m)  | 02/28,18:00  | 분석실 |haven-jeon  |
 | IntegratedGradients (0h20m), [BEGAN](GAN/BEGAN) (0h20m),[QA- Multimodal Compact Bilinear Pooling](QA/notebooks/Question_Answering_literature_review.ipynb) (0h45m) | 03/08,18:00  | 분석실 | kionkim, seujung , hyemin15, soeque1  |
-|  DQN, DDQN  | 03/15,18:00  | 분석실 |soohwanjo, hongdm7 |
+|  Deep Q-Network(0h30m), Double Deep Q-Network  | 03/15,18:00  | 분석실 |hongdm7, soohwanjo |
 | Anomaly detection w Autoencoder, CapsNet(0h30m)  | 03/22,18:00  | 분석실 |ljy3795, kionkim   |
 | relational network,  | 03/29,18:00  | 분석실 | seujung |
 
@@ -161,8 +161,8 @@ Deep learning to learn while making
   - https://arxiv.org/pdf/1505.00468.pdf
 
 ### Reinforcement Learning
-- DQN(Deep Q-Network) (@soohwanjo)
-- DDQN(Double Deep Q-Network) (@hongdm7)
+- DQN(Deep Q-Network) (@hongdm7)
+- DDQN(Double Deep Q-Network) (@soohwanjo)
 
 ## Reference
 
