@@ -157,8 +157,7 @@ Deep learning to learn while making
 ### QA
 - relational network (@seujung)
   - https://arxiv.org/pdf/1706.01427.pdf
-- Visual Question Answering (@kionkim, @hyemin15)
-  - https://arxiv.org/pdf/1505.00468.pdf
+- [Visual Question Answering](QA/notebooks) (@kionkim, @hyemin15)
 
 ### Reinforcement Learning
 - DQN(Deep Q-Network) (@hongdm7)
