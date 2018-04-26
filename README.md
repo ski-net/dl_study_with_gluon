@@ -1,5 +1,7 @@
-## Deep Learning Study with Gluon2 (2018.03 ~ present)
+## Deep Learning Study with Gluon2 (2018.03 ~ )
 [https://github.com/ski-net/dl_study_with_gluon_2nd](https://github.com/ski-net/dl_study_with_gluon_2nd)
+
+-----
 
 ## Deep Learning Study with Gluon (2017.12 ~ 2018.03)
 
